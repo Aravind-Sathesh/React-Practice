@@ -1,0 +1,34 @@
+.note {
+	background: #fff;
+	border-radius: 7px;
+	box-shadow: 0 2px 5px #ccc;
+	padding: 10px;
+	width: 240px;
+	margin: 16px;
+	float: left;
+}
+h1 {
+	font-size: 1.1em;
+	font-family: 'Poppins';
+	font-weight: 600;
+	margin-bottom: 6px;
+}
+p {
+	font-size: 1.1em;
+	color: #666;
+	margin-bottom: 10px;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+
+.note button {
+	border-radius: 50%;
+	float: right;
+	margin-right: 10px;
+	color: #139bf5;
+	border: none;
+	width: 36px;
+	height: 36px;
+	cursor: pointer;
+	outline: none;
+}
