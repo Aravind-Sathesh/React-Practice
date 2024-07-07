@@ -18,7 +18,6 @@ function CreateArea(props) {
 
 	function handleChange(event) {
 		const { name, value } = event.target;
-
 		setNote((prevNote) => ({...prevNote,[name]: value,}));}
 
 	function submitNote(event) {
