@@ -5,9 +5,10 @@
 }
 html {
 	font-family: 'Poppins', sans-serif;
+	width: 100%;
 }
 body {
 	background: #eee;
 	background-image: url('https://www.transparenttextures.com/patterns/axiom-pattern.png');
-	padding: 0 16px;
+	padding: 0;
 }

@@ -1,6 +1,7 @@
 header {
 	background-color: #139bf5;
-	margin: auto -16px;
+	margin: auto;
+	width: 100%;
 	padding: 16px 32px;
 	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
 	text-align: center;
